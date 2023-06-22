@@ -9,3 +9,6 @@ gorkem/ca.crt
 *.tar
 airgapped-files/*
 cert/*
+clusters/full-profile/cluster-config/dependant-resources/tools/local-issuer.yaml
+*.DS_Store
+*.vscode
